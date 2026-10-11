@@ -1,2 +1,11 @@
+# Dependencies
 node_modules/
+
+# Compiled TypeScript output
 dist/
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# macOS metadata
+.DS_Store
